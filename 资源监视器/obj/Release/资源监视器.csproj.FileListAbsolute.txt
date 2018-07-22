@@ -1,0 +1,8 @@
+E:\github\ResourcePerform\资源监视器\bin\Release\资源监视器.exe.config
+E:\github\ResourcePerform\资源监视器\bin\Release\资源监视器.exe
+E:\github\ResourcePerform\资源监视器\bin\Release\资源监视器.pdb
+E:\github\ResourcePerform\资源监视器\obj\Release\资源监视器.Form1.resources
+E:\github\ResourcePerform\资源监视器\obj\Release\资源监视器.Properties.Resources.resources
+E:\github\ResourcePerform\资源监视器\obj\Release\资源监视器.csproj.GenerateResource.Cache
+E:\github\ResourcePerform\资源监视器\obj\Release\资源监视器.exe
+E:\github\ResourcePerform\资源监视器\obj\Release\资源监视器.pdb
